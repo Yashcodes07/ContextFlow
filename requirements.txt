@@ -1,0 +1,11 @@
+# Core dependencies
+requests==2.31.0
+fastapi==0.111.0
+uvicorn==0.29.0
+aiosqlite==0.20.0
+pydantic==2.7.1
+
+# NO PAID APIs NEEDED
+# Free APIs used in this project:
+#   Gemini  → https://aistudio.google.com  (get free key)
+#   Groq    → https://console.groq.com     (get free key)
